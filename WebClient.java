@@ -5,7 +5,7 @@
  * CPSC 441
  * Assignment 1
  *
- * @author 	Majid Ghaderi
+ * @author 	Sana Abdelhalem
  * @version	2024
  *
  */
